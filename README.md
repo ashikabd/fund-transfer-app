@@ -4,10 +4,11 @@
 
 This project is a full-stack fund transfer system which demonstrates secure, atomic money transfers between users with an immutable audit trail, using modern backend and frontend technologies.
 
-Important Links
+### Important Links
 
-GitHub Repository: [[(https://github.com/ashikabd/fund-transfer-app)](https://github.com/ashikabd/fund-transfer-app)]
-Video Walkthrough: [Add your video link here (YouTube/Google Drive)]
+GitHub Repository: [[https://github.com/ashikabd/fund-transfer-app](https://github.com/ashikabd/fund-transfer-app)]
+
+Video Walkthrough: [[https://drive.google.com/file/d/1nAmksdEve_18qZSIb555YXreptliqGFo/view?usp=sharing](https://drive.google.com/file/d/1nAmksdEve_18qZSIb555YXreptliqGFo/view?usp=sharing)]
 
 ### Implementation Approach
 
